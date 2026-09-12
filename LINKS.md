@@ -23,7 +23,7 @@ summarized takeaways.
 
 - https://www.frequencycheck.com
 - https://kimovil.com/en/frequency-checker
-- https://willmyphonework.net
+- https://willmyphonework.net — **checked 2026-09-12: SSL certificate expired, browsers will warn** — use frequencycheck.com or kimovil's checker instead for now
 
 ## Visual Phone Size Comparison
 
